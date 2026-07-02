@@ -52,3 +52,57 @@ plt.close()
 
 print("Plots generated successfully!")
 
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# 1. Load the authentic FAOSTAT file you just uploaded
+fao_file = "data/FAOSTAT_data_en_7-2-2026.csv"
+df = pd.read_csv(fao_file)
+
+# 2. Filter data for a specific element (e.g., Yield vs Production Quantity)
+# Standard FAOSTAT elements: "Yield" or "Production"
+yield_data = df[df["Element"] == "Yield"].sort_values("Year")
+prod_data = df[df["Element"] == "Production"].sort_values("Year")
+
+# 3. Generate a dual-axis trend visualization
+fig, ax1 = plt.subplots(figsize=(10, 6))
+
+# Plot Yield Trend
+color = "tab:green"
+ax1.set_xlabel("Year", fontsize=12)
+ax1.set_ylabel("Yield (Hg/Ha)", color=color, fontsize=12)
+ax1.plot(
+    yield_data["Year"],
+    yield_data["Value"],
+    color=color,
+    marker="o",
+    linewidth=2,
+    label="Yield",
+)
+ax1.tick_params(axis="y", labelcolor=color)
+ax1.grid(True, linestyle="--", alpha=0.5)
+
+# Plot Production Volume Trend on secondary axis
+ax2 = ax1.twinx()
+color = "tab:blue"
+ax2.set_ylabel("Total Production (Tonnes)", color=color, fontsize=12)
+ax2.plot(
+    prod_data["Year"],
+    prod_data["Value"],
+    color=color,
+    marker="s",
+    linewidth=2,
+    linestyle="--",
+    label="Production",
+)
+ax2.tick_params(axis="y", labelcolor=color)
+
+plt.title("Tanzania Agricultural Trends (FAOSTAT Data)", fontsize=14, pad=15)
+fig.tight_layout()
+
+# Save the real-world engineering visualization output
+plt.savefig("trend_analysis.png", dpi=300)
+print(
+    "Analysis complete! Updated trend_analysis.png with authentic FAOSTAT data."
+)
+
