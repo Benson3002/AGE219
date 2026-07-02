@@ -1,0 +1,89 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01371,"Almonds, in shell",2013,2013,1000 SLC,2531,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2013,2013,1000 SLC,9271,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01341,Apples,2013,2013,1000 SLC,1016513,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01343,Apricots,2013,2013,1000 SLC,43320,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01216,Artichokes,2013,2013,1000 SLC,161608,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01211,Asparagus,2013,2013,1000 SLC,366031,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01311,Avocados,2013,2013,1000 SLC,3581,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01312,Bananas,2013,2013,1000 SLC,365696,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0115,Barley,2013,2013,1000 SLC,6008778,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01701,"Beans, dry",2013,2013,1000 SLC,459309,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),02960.01,Beeswax,2013,2013,1000 SLC,153495,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01702,"Broad beans and horse beans, dry",2013,2013,1000 SLC,19979,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01195,Canary seed,2013,2013,1000 SLC,40881,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01229,Cantaloupes and other melons,2013,2013,1000 SLC,805805,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01251,Carrots and turnips,2013,2013,1000 SLC,425867,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01520.01,"Cassava, fresh",2013,2013,1000 SLC,603149,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01199.90,Cereals n.e.c.,2013,2013,1000 SLC,22684,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01344.02,Cherries,2013,2013,1000 SLC,73493,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01703,"Chick peas, dry",2013,2013,1000 SLC,73514,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2013,2013,1000 SLC,5704,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2013,2013,1000 SLC,760846,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01315,Figs,2013,2013,1000 SLC,3119,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21170.02,"Game meat, fresh, chilled or frozen",2013,2013,1000 SLC,173632,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01330,Grapes,2013,2013,1000 SLC,3238475,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01252,Green garlic,2013,2013,1000 SLC,736296,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0142,"Groundnuts, excluding shelled",2013,2013,1000 SLC,3119631,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0231,"Hen eggs in shell, fresh",2013,2013,1000 SLC,3420891,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01659,Hop cones,2013,2013,1000 SLC,1963,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21118.01i,"Horse meat, fresh or chilled (indigenous)",2013,2013,1000 SLC,3169032,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01322,Lemons and limes,2013,2013,1000 SLC,1306128,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01704,"Lentils, dry",2013,2013,1000 SLC,30505,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01441,Linseed,2013,2013,1000 SLC,37392,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01709.02,Lupins,2013,2013,1000 SLC,170,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0112,Maize (corn),2013,2013,1000 SLC,31614939,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01316,"Mangoes, guavas and mangosteens",2013,2013,1000 SLC,1881,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01630,Maté leaves,2013,2013,1000 SLC,623916,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21111.01i,"Meat of cattle with the bone, fresh or chilled (indigenous)",2013,2013,1000 SLC,114969947,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21121i,"Meat of chickens, fresh or chilled (indigenous)",2013,2013,1000 SLC,7531841,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21122i,"Meat of ducks, fresh or chilled (indigenous)",2013,2013,1000 SLC,7933,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21123i,"Meat of geese, fresh or chilled (indigenous)",2013,2013,1000 SLC,418,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21116i,"Meat of goat, fresh or chilled (indigenous)",2013,2013,1000 SLC,118353,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21113.01i,"Meat of pig with the bone, fresh or chilled (indigenous)",2013,2013,1000 SLC,952107,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21114i,"Meat of rabbits and hares, fresh or chilled (indigenous)",2013,2013,1000 SLC,194978,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21115i,"Meat of sheep, fresh or chilled (indigenous)",2013,2013,1000 SLC,2715132,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),21124i,"Meat of turkeys, fresh or chilled (indigenous)",2013,2013,1000 SLC,25525,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0118,Millet,2013,2013,1000 SLC,13910,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),02910,Natural honey,2013,2013,1000 SLC,818969,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0117,Oats,2013,2013,1000 SLC,528176,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01450,Olives,2013,2013,1000 SLC,414892,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01253.02,"Onions and shallots, dry (excluding dehydrated)",2013,2013,1000 SLC,587364,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01323,Oranges,2013,2013,1000 SLC,632251,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01241.90,"Other beans, green",2013,2013,1000 SLC,1169,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01929.90,"Other fibre crops, raw, n.e.c.",2013,2013,1000 SLC,1393,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01699,"Other stimulant, spice and aromatic crops, n.e.c.",2013,2013,1000 SLC,979,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01290.90,"Other vegetables, fresh n.e.c.",2013,2013,1000 SLC,478546,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01317,Papayas,2013,2013,1000 SLC,1487,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01345,Peaches and nectarines,2013,2013,1000 SLC,254895,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01342.01,Pears,2013,2013,1000 SLC,858681,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01705,"Peas, dry",2013,2013,1000 SLC,77646,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01242,"Peas, green",2013,2013,1000 SLC,34737,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01318,Pineapples,2013,2013,1000 SLC,2717,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01346,Plums and sloes,2013,2013,1000 SLC,97774,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01321,Pomelos and grapefruits,2013,2013,1000 SLC,79451,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01510,Potatoes,2013,2013,1000 SLC,2992608,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01235,"Pumpkins, squash and gourds",2013,2013,1000 SLC,338809,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01342.02,Quinces,2013,2013,1000 SLC,39716,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01443,Rape or colza seed,2013,2013,1000 SLC,194181,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),02211,Raw milk of cattle,2013,2013,1000 SLC,23730273,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0113,Rice,2013,2013,1000 SLC,2355932,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0116,Rye,2013,2013,1000 SLC,47640,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01446,Safflower seed,2013,2013,1000 SLC,93785,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01921.01,"Seed cotton, unginned",2013,2013,1000 SLC,1534363,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),02941,"Shorn wool, greasy, including fleece-washed shorn wool",2013,2013,1000 SLC,796503,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0114,Sorghum,2013,2013,1000 SLC,3049958,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0141,Soya beans,2013,2013,1000 SLC,88209285,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01354,Strawberries,2013,2013,1000 SLC,268828,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01241.01,String beans,2013,2013,1000 SLC,60377,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01802,Sugar cane,2013,2013,1000 SLC,3293281,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01445,Sunflower seed,2013,2013,1000 SLC,4848887,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01530,Sweet potatoes,2013,2013,1000 SLC,681137,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01324,"Tangerines, mandarins, clementines",2013,2013,1000 SLC,391057,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01620,Tea leaves,2013,2013,1000 SLC,262520,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01234,Tomatoes,2013,2013,1000 SLC,1619834,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01499.02,Tung nuts,2013,2013,1000 SLC,3780,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01970,Unmanufactured tobacco,2013,2013,1000 SLC,1981189,A,Official figure
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01376,"Walnuts, in shell",2013,2013,1000 SLC,210285,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),01221,Watermelons,2013,2013,1000 SLC,467799,E,Estimated value
+QV,Value of Agricultural Production,32,Argentina,56,Gross Production Value (current thousand SLC),0111,Wheat,2013,2013,1000 SLC,18009144,A,Official figure
