@@ -16,8 +16,12 @@ Mined 10 distinct historical data files (.csv format) tracking annual crop yield
 ## 4. Results & Conclusion
 The analytical model demonstrates a pronounced correlation where optimized temperature windows heavily dictate yield performance.
 
-### ![Agricultural Trends](categorical_comparison.png)
-![Production by Item](item_production.png)
+# My Agricultural Data Analysis
+
+![Trend](graph1.png)
+![Items](graph2.png)
+![Elements](graph3.png)
+![Distribution](graph4.png)
 
 
 ---
